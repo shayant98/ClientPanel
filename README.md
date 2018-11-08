@@ -1,8 +1,19 @@
-# Clientpanel
+# ClientPanel
+A project build on Angular 6  and AngularFire2. This project implements full CRUD functionality aswell as OAUTH authentication with Firestore/Auth API.
 
-This project was build to better understand Angular and NoSQL database. For this I used Angular 6 and Google Firestore as a backend database. This project may be expanded upon in the future to test new Firestore features. 
+## Getting Started
 
-The goal of this app is to record/update/delete  client balances. in a nutshell
+### prerequisites
+* Angular CLI (Tested on Angular 6)
+* Firebase Account/Project
 
-## Deployment LINK:
-http://clientpanelprod-4216c.firebaseapp.com
+### Installation
+Clone this project and run `NG SERVE` inside of the project folder
+ - Edit the enviroment File
+
+
+## DEMO
+
+This application is deployed on Firebase Hosting:
+[Demo Here](http://clientpanelprod-4216c.firebaseapp.com)
+
